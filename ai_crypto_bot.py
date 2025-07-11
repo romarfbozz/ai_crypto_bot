@@ -2,7 +2,7 @@ import requests
 import time
 from bs4 import BeautifulSoup
 
-TELEGRAM_TOKEN = "8138735485:AAHspIJeNUenYPAdIAUtQZT_6cNNrcBaWfw"
+TELEGRAM_TOKEN = "7384247990:AAEBad20wB0R30DNaORfwL3u5x8mtuz_MEU"
 CHAT_ID = "891146043"
 URL = "https://www.tradingview.com/ideas/btc/"
 
